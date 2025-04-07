@@ -3,7 +3,7 @@ using namespace std;
 
 int main ()
 {
-    int a1, b1, a2, b2, num1[10][10], num2[10][10], result[10][10], sum = 0;
+    int a1, b1, a2, b2, num1[10][10], num2[10][10], sum = 0;
 
     // First Matrix Input
 
